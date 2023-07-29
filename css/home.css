@@ -1,0 +1,23 @@
+:root {
+    font-family: "Poppins";
+    --primary: #392472
+    --font: #979191;
+    --active: #65C18C;
+  }
+  
+  body {
+    font-family: "Poppins", sans-serif;
+    text-decoration:none;
+    overflow-x: hidden;
+  }
+
+  .imglogo{
+    width:280px;
+    height:100px;
+  }
+  .navbar-nav .nav-item .nav-link.active {
+    color: var(--active);
+  }
+  .navbar-nav {
+    margin-top: 60px;
+  }

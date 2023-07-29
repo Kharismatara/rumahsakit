@@ -1,23 +1,26 @@
 :root {
-    font-family: "Poppins";
-    --primary: #392472
-    --font: #979191;
-    --active: #65C18C;
-  }
-  
-  body {
-    font-family: "Poppins", sans-serif;
-    text-decoration:none;
-    overflow-x: hidden;
-  }
+  font-family: "Poppins";
+  --primary: #392472;
+  --font: #979191;
+  --active: #65c18c;
+}
 
-  .imglogo{
-    width:280px;
-    height:100px;
-  }
-  .navbar-nav .nav-item .nav-link.active {
-    color: var(--active);
-  }
-  .navbar-nav {
-    margin-top: 60px;
-  }
+body {
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+  overflow-x: hidden;
+}
+
+.imglogo {
+  width: 280px;
+  height: 100px;
+}
+.navbar-nav .nav-item .nav-link.active {
+  color: var(--active);
+}
+.navbar-nav {
+  margin-top: 60px;
+}
+.titlecontent {
+  color: var(--primary);
+}

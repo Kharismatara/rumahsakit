@@ -24,3 +24,6 @@ body {
 .titlecontent {
   color: var(--primary);
 }
+.bgconten {
+  background-color: var(--primary);
+}

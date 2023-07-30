@@ -27,3 +27,11 @@ body {
 .bgconten {
   background-color: var(--primary);
 }
+.prmososikesehatan {
+  font-size: 36px;
+  color: var(--primary);
+}
+.atikelkesehatan {
+  font-size: 36px;
+  color: var(--primary);
+}

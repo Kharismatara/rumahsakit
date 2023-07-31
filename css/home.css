@@ -35,3 +35,6 @@ body {
   font-size: 36px;
   color: var(--primary);
 }
+.footerbg {
+  background-color: var(--primary);
+}
